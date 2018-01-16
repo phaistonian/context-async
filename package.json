@@ -1,0 +1,12 @@
+{
+  "name": "context-async",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "George Papadakis <phaistonian@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-env": "^2.4.1",
+    "babel-loader": "^7.1.2",
+    "webpack": "^3.10.0"
+  }
+}
